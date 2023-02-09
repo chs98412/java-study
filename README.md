@@ -62,7 +62,9 @@
 ### 1.우테코 프리코스 미션 수행
 
 <img src="https://user-images.githubusercontent.com/79582366/217751866-bd44f8ae-ecea-485f-a79c-0e86e1909668.png" height="800px" width="1000px">
- [우테코 프리코스](https://github.com/orgs/woowacourse-precourse/repositories?q=&type=all&language=java&sort=)
+ [우테코 프리코스](https://github.com/orgs/woowacourse-precourse/repositories?q=&type=all&language=java)
+ 
+ 
 - 구글링하면 실제 프리코스 진행하면서 정리해놓으신 분들이 꽤나 많음
 - 자바를 잘 알기도 해야하지만 무작정 코드를 짜는게 아닌 자바스럽게 코드를 짜도록 권장하는 문제들이라 적합하다고 생각됨
 
