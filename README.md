@@ -46,16 +46,19 @@
  
 ## 선택
 
-1. 레퍼런스 도서를 함께 공부한 후, 컨텐츠를 수행 (레퍼런스 도서를 한번씩 정독할 수 있다는 장점, but 노잼)
-2. 컨텐츠를 수행하면서 각자 알아서 레퍼런스 도서를 참고 (지루하지도 않고 실전 적용해볼 수 있음, but 레퍼런스 도서를 찬찬히 읽지 않을지도 모름) (후에 필요를 느낄 시 다시 도서들을 정독해도 좋음) (선택 2 선호 ㅎㅎ,,)
+1. 각 주차에 해당하는 문제 코드 작성후, 점차 개선시키는 방향
+2. 자바에 관련된 키워드를 정해서 리드미 파일로 정리 (키워드 예시 [백기선님 자바 스터디](https://github.com/whiteship/live-study/issues?q=is%3Aissue+is%3Aclosed) )
 
-레퍼런스 도서 안에 컨텐츠를 수행하는데 필요한 지식들이 있음 (아마도?)  
+<img src="https://user-images.githubusercontent.com/79582366/219641569-a982b22e-1a12-4e68-8ed6-2fd734df2fd0.png" height="400px" width="350px">|<img src="https://user-images.githubusercontent.com/79582366/219642149-c900c383-3916-463d-a88c-12b444fa6bb7.png" height="400px" width="350px">
+
+
+레퍼런스 도서 안에 문제풀이를 수행하는데 필요한 지식들이 있음 (아마도?)  
 <br>
  
  
-## 컨텐츠
+## 문제
 
-> **컨텐츠 진행 방법**: 각자 문제에 해당하는 코드를 짜보고 코드리뷰를 하는 방식으로 진행
+> **문제풀이 진행 방법**: 각자 문제에 해당하는 코드를 짜보고 코드리뷰를 하는 방식으로 진행
 **컨텐츠 선정 기준**: 일반 알고리즘처럼 문제해결이 중요한게 아닌 자바스럽게 코드를 짜는것이 목표인 문제들
 > 
 
@@ -88,7 +91,10 @@
 
 <img src="https://user-images.githubusercontent.com/79582366/217754683-e9a34747-5bca-4d66-8745-1e57adafc854.png" height="300px" width="200px">|<img src="https://user-images.githubusercontent.com/79582366/217754726-b4b40f8e-685b-46a3-9906-9d75b06b398e.png" height="300px" width="200px">|<img src="https://user-images.githubusercontent.com/79582366/217754795-8a116e99-2b9f-46f9-b78f-9e7eb112336c.png" height="300px" width="200px">|<img src="https://user-images.githubusercontent.com/79582366/217754897-e9dbc40c-be17-4b3d-931a-06499de1f070.png" height="300px" width="200px">
 
-[자바 객체지향의 원리와 이해](http://www.yes24.com/Product/Goods/17350624)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[자바 성능 튜닝 이야기](http://www.yes24.com/Product/Goods/11261731)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[객체지향의 사실과 오해](http://www.yes24.com/Product/Goods/18249021)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[오브젝트](http://www.yes24.com/Product/Goods/74219491)
+[자바 객체지향의 원리와 이해](http://www.yes24.com/Product/Goods/17350624)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[자바 성능 튜닝 이야기](http://www.yes24.com/Product/Goods/11261731)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[객체지향의 사실과 오해](http://www.yes24.com/Product/Goods/18249021)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[오브젝트](http://www.yes24.com/Product/Goods/74219491)
 
 +자바 기본서 (이것이 자바다, 자바의 신 등등)
 
