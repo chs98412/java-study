@@ -113,6 +113,8 @@ ex) docs: 플로우차트 작성
 
 ## 📄 레퍼런스
 
+### 도서
+
 > 레퍼런스 도서 선정 기준: 각종 구글링을 통해 네카라 간 사람들이 읽었다는 자바 책들 선정
 > 
 
@@ -139,7 +141,6 @@ ex) docs: 플로우차트 작성
 
 [백기선님 자바 스터디](https://github.com/whiteship/live-study/issues?q=is%3Aissue+is%3Aclosed)
 
-[커밋컨벤션]([https://github.com/whiteship/live-study/issues?q=is%3Aissue+is%3Aclosed](https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-git-%EC%BB%A4%EB%B0%8B%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0#%EC%A0%9C%EB%AA%A9%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EC%84%B1%ED%95%98%EB%8A%94%EA%B0%80]))
 
 <br><br>
   
